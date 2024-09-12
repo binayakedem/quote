@@ -1,0 +1,156 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:#bbc6fa;
+    font-family: "Playfair Display", serif;
+}
+.quote-box{
+    background: #fff;
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    align-items: center;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 10px 20px 0px rgba(0,0,0,0.15);
+}
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+    font-family: sans-serif;
+
+}
+.icon-sun{
+    color: yellow;
+}
+.body{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+
+}
+.author{
+    overflow: hidden;
+    height: 200px;
+    border-radius:10px;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.15);
+}
+.author img{
+    object-fit: cover;
+    height: 100%;
+}
+.foots{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    font-family: sans-serif;
+   
+
+}
+.foots button{
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border: 0px;
+    box-shadow: 0 9px 10px 0 rgba(0,0,0,0.8);
+    cursor: pointer;
+    font-size: large;
+    color: white;
+}
+.next{
+    background: rgb(54, 54, 200);
+}
+.next:hover{
+    background: rgb(29, 29, 216);
+    
+}
+.prev{
+    background: rgb(101, 101, 147);
+}
+.prev:hover{
+    background: rgb(76, 76, 137);
+}
+.rand{
+    background: rgb(1, 171, 13);
+}
+.rand:hover{
+    background: rgb(6, 180, 18);
+}
+ 
+
+  
+
+
+@media (min-width: 768px) {
+    .quote-box{
+        width: 80%;
+        top: 15%;
+        left: 10%;
+        padding: 30px;
+    }
+    .heading, .body, .foots {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 20px;
+    }
+    .foots button {
+        width: auto; /* Buttons return to normal width */
+    }
+}
+
+@media (max-width: 600px) {
+    
+    .body {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 20px;
+    }
+    .foots button {
+        width: auto; /* Buttons return to normal width */
+        padding: 5px;
+    }
+}
+
+/* mode change */
+
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode .quote-box {
+    background: #444;
+    box-shadow: 0 10px 20px 0px rgba(255,255,255,0.15);
+}
+
+.dark-mode .heading, .dark-mode .foots {
+    color: #ccc;
+}
+
+.dark-mode button {
+    background: #666;
+    color: #fff;
+    border: 1px solid #444;
+}
+
+.dark-mode .author {
+    box-shadow: 0 10px 20px 0 rgba(255,255,255,0.15);
+}
+
+
+

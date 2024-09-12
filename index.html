@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <title>Quote App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="quote-box playfair-display">
+    <div class="heading">
+
+        <p><select id="categoryDropdown"></select></p>
+
+        <p>Font 
+            <button onclick="increaseFontSize()">A+</button>
+            <button onclick="decreaseFontSize()">A-</button>
+        </p>
+
+        <p><i class="fa-solid fa-moon" id="modeToggle">Mode</i></p>
+
+    </div>
+    <div class="body">
+        <div class="" id="quoteBox">
+            <p id="quoteText">Loading quote...</p>
+            <div  id="quoteAuthor"></div>
+        </div>
+        <div class="author">
+            <img id="authorImage" alt="author">
+        </div>
+
+    </div>
+    <div class="foots">
+        <button class="prev"  id="prevBtn"><i class="fa-solid fa-angles-left"></i> Prev</button>
+        <button class="next"  id="nextBtn">Next <i class="fa-solid fa-angles-right"></i></button>
+        <button class="rand" id="randomBtn">rand <i class="fa-solid fa-shuffle"></i></button>
+
+    </div>
+
+</div>
+<script src="script.js"></script>
+</body>
+</html>

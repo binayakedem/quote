@@ -1,0 +1,164 @@
+[
+    {
+        "category": "Science",
+        "quote": "Science is a way of thinking much more than it is a body of knowledge.",
+        "author": "Carl Sagan",
+        "author_image_link": "https://cdn.britannica.com/36/194736-050-CA5BE18B/Carl-Sagan-science-writer-American.jpg"
+    },
+    {
+        "category": "Science",
+        "quote": "The important thing is to never stop questioning.",
+        "author": "Albert Einstein",
+        "author_image_link": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+    },
+    {
+        "category": "Science",
+        "quote": "The good thing about science is that it’s true whether or not you believe in it.",
+        "author": "Neil deGrasse Tyson",
+        "author_image_link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIRS7JBWP2Iq1VQGVHOuDh2ZNMOyBBRRsquU5HC_YW7LSzxTF1"
+    },
+    {
+        "category": "Motivational",
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "author_image_link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIRS7JBWP2Iq1VQGVHOuDh2ZNMOyBBRRsquU5HC_YW7LSzxTF1"
+    },
+    {
+        "category": "Motivational",
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "author_image_link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJxr_A9KBPcQoh2kviiPPIy3h97Qp9Rk_iuWJOeh7iTXOJkPTR"
+    },
+    {
+        "category": "Motivational",
+        "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+        "author": "C.S. Lewis",
+        "author_image_link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPxvWll391NSeleTDBEvAddYi7vMSixA1jbgXf38O2B-TbD1qI"
+    },
+    {
+        "category": "Motivational",
+        "quote": "The best way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney",
+        "author_image_link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG"
+    },
+    {
+        "category": "Motivational",
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "author_image_link": "https://cdn.britannica.com/80/164680-050-9B4095AE.jpg"
+    },
+    {
+        "category": "Educational",
+        "quote": "Education is the most powerful weapon which you can use to change the world.",
+        "author": "Nelson Mandela",
+        "author_image_link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiUJLR57NJM64fbXum1dZC5n71l-VbKBAf6Oq3Yw-p4hC6u-Co"
+    },
+    {
+        "category": "Educational",
+        "quote": "An investment in knowledge pays the best interest.",
+        "author": "Benjamin Franklin",
+        "author_image_link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg"
+    },
+    {
+        "category": "Educational",
+        "quote": "The roots of education are bitter, but the fruit is sweet.",
+        "author": "Aristotle",
+        "author_image_link": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Q-Ue0MWJ_KK-7UtPBP_uCJAkubeIk_F4Xd9auMBiQNo0nG5x"
+    },
+    {
+        "category": "Educational",
+        "quote": "Develop a passion for learning. If you do, you will never cease to grow.",
+        "author": "Anthony J. D'Angelo",
+        "author_image_link": "https://fixquotes.com/photo/author/anthony-j-dangelo_b6tzr_800.jpg"
+    },
+    {
+        "category": "Success",
+        "quote": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau",
+        "author_image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSG2JFtjfFG7RLHeHis91RHqZPANhw74I7Q&s"
+    },
+    {
+        "category": "Success",
+        "quote": "Success is not the key to happiness. Happiness is the key to success.",
+        "author": "Albert Schweitzer",
+        "author_image_link": "https://www.nobelprize.org/images/schweitzer-13086-content-portrait-mobile-tiny.jpg"
+    },
+    {
+        "category": "Success",
+        "quote": "I find that the harder I work, the more luck I seem to have.",
+        "author": "Thomas Jefferson",
+        "author_image_link": "https://www.whitehouse.gov/wp-content/uploads/2021/01/03_thomas_jefferson.jpg"
+    },
+    {
+        "category": "Success",
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "author_image_link": "https://www.nobelprize.org/images/churchill-13090-landscape-medium.jpg"
+    },
+    {
+        "category": "Success",
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser",
+        "author_image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3wb4jGnAx2k_cW59oiyeDjG8WKa3DCcWAGg&s"
+    },
+    {
+        "category": "Life",
+        "quote": "In the end, we only regret the chances we didn’t take.",
+        "author": "Lewis Carroll",
+        "author_image_link": "https://ebbg7broonn.exactdn.com/wp-content/uploads/2023/09/Lewis-Carroll-Portrait.jpg?strip=all&lossy=1&ssl=1"
+    },
+    {
+        "category": "Life",
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "author_image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSybwD9j6IqS44MjjOKSUegJMy1QEwbY9qdew&s"
+    },
+    {
+        "category": "Life",
+        "quote": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama",
+        "author_image_link": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dalailama1_20121014_4639.jpg"
+    },
+    {
+        "category": "Life",
+        "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+        "author": "Mark Twain",
+        "author_image_link": "https://cdn.britannica.com/83/136283-050-9C9D6ED8/Mark-Twain-1907.jpg"
+    },
+    {
+        "category": "Life",
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost",
+        "author_image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Robert_Frost%2C_1910s.jpg/220px-Robert_Frost%2C_1910s.jpg"
+    },
+    {
+        "category": "Motivational",
+        "quote": "It always seems impossible until it’s done.",
+        "author": "Nelson Mandela",
+        "author_image_link": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiUJLR57NJM64fbXum1dZC5n71l-VbKBAf6Oq3Yw-p4hC6u-Co"
+    },
+    {
+        "category": "Motivational",
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "author_image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uOG2e8WALDD0GvapODj7anV7IeTJwhqn2w&s"
+    },
+    {
+        "category": "Motivational",
+        "quote": "You miss 100% of the shots you don’t take.",
+        "author": "Wayne Gretzky",
+        "author_image_link": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Andrew_Scheer_with_Wayne_Gretzky_%2848055697168%29_%28cropped%29.jpg"
+    },
+    {
+        "category": "Motivational",
+        "quote": "Don’t wait for opportunity. Create it.",
+        "author": "George Bernard Shaw",
+        "author_image_link": "https://cdn.britannica.com/26/4126-004-37D80044/photograph-George-Bernard-Shaw-Yousuf-Karsh.jpg?w=400&h=300&c=crop"
+    },
+    {
+        "category": "Motivational",
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "author_image_link": "https://cdn.britannica.com/30/126430-050-277A9553/Franklin-D-Roosevelt-1933.jpg"
+    }
+]
